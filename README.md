@@ -12,7 +12,7 @@ Click "Start Game" to begin a 10-second countdown. Simple math problems (like "2
 
 Built by Deividas Strole to deliver high-pressure, rewarding math drills using pure browser technologies.
 
-✨ Key Features
+✨ Key Features:
 
 - **10-second high-pressure timer** for intense gameplay
 - Randomly generated simple math problems (addition and more)
