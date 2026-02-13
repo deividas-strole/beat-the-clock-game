@@ -1,6 +1,6 @@
-# Beat the Clock — Quick Math Hero by Deividas Strole
+# Beat the Clock - Quick Math Hero by Deividas Strole
 
-Beat the Clock is a fast-paced math challenge game built with **vanilla JavaScript**, **HTML**, and **CSS** in a single file. Developed by Deividas Strole, test your speed and accuracy by solving as many simple math problems as possible within a strict **10-second timer**—perfect for quick brain workouts or showcasing DOM-based game mechanics.
+Beat the Clock is a fast-paced math challenge game built with **vanilla JavaScript**, **HTML**, and **CSS** in a single file. Developed by Deividas Strole, test your speed and accuracy by solving as many simple math problems as possible within a strict **10-second timer**—perfect for quick brain workouts or showcasing DOM-based game mechanics
 
 This addictive, no-frills game runs instantly in any browser and is hosted on GitHub Pages.
 
