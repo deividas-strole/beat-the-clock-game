@@ -22,7 +22,7 @@ Built by Deividas Strole to deliver high-pressure, rewarding math drills using p
 - Easy restart for endless replayability
 - Single-file design—no dependencies or setup
 
-🛠️ Built With
+🛠️ Built With:
 
 | Technology | Purpose                          |
 |------------|----------------------------------|
