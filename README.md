@@ -4,7 +4,7 @@ Beat the Clock is a fast-paced math challenge game built with **vanilla JavaScri
 
 This addictive, no-frills game runs instantly in any browser and is hosted on GitHub Pages.
 
-Created by Deividas Strole as part of his portfolio of interactive JavaScript experiences
+Created by Deividas Strole as part of his portfolio of interactive JavaScript experiences.
 
 🚀 Overview
 
